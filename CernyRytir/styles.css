@@ -1,6 +1,26 @@
-.body {
+body {
+  background-color: #FF5F32;
+
+}
+header {
+  background-color: #282A3A;
+  color: white;
 }
 .section {
   background-color: #735F32;
   color: white;
 }
+
+.btn:hover {
+  background-color: #ff2600;
+  color: blue;
+  padding: 10px;
+}
+.btn {
+  border: 5px;
+  padding: 1em;
+  cursor: pointer;
+  color: white;
+  background-color: #ff7b00;
+}
+
