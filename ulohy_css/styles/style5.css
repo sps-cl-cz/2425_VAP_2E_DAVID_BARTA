@@ -1,0 +1,17 @@
+.div1 {
+    background-color: #FFCCCC;
+    text-indent: 1em;
+    padding: 1em;
+}
+.div2 {
+    background-color: #CCFFCC;
+    text-indent: 2em;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+.div3 {
+    background-color: #CCCCFF;
+    text-indent: 3em;
+    padding: 0.5em;
+    margin: 1em;
+}

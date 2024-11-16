@@ -1,0 +1,15 @@
+div {
+  width: 100%;
+  height: 300px;
+  background-image: url("https://picsum.photos/id/168/1600");
+}
+
+.first {
+  background-size: cover;
+}
+
+.second {
+  width: 100%;
+  height: 300px;
+  background-size: contain;
+}

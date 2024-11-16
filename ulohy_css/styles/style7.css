@@ -1,0 +1,12 @@
+.popup {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  position: absolute;
+  height: fit-content;
+  width: 300px;
+  padding: 50px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+}

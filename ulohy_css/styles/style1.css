@@ -1,0 +1,8 @@
+p {
+  display: flex;
+  align-items: top;
+  justify-content: space-between;
+}
+#myH1 {
+  text-align: center;
+}
