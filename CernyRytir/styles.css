@@ -1,13 +1,12 @@
 body {
-  background-color: #FF5F32;
-
+  background-color: #ff5f32;
 }
 header {
-  background-color: #282A3A;
+  background-color: #282a3a;
   color: white;
 }
 .section {
-  background-color: #735F32;
+  background-color: #735f32;
   color: white;
 }
 
@@ -23,4 +22,10 @@ header {
   color: white;
   background-color: #ff7b00;
 }
-
+footer {
+  background-color: #c69749;
+  color: white;
+}
+img {
+  width: 300px;
+}
